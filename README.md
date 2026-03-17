@@ -2,7 +2,7 @@
 
 **Try it Live**: [https://kdex-ai.streamlit.app](https://kdex-ai.streamlit.app)
 
-*Developer: Ms. Kritika*
+*Developer: Kritika*
 
 **KDEX** is an intelligent, natural-language data analysis workspace. Upload any CSV dataset, and KDEX leverages a powerful local DuckDB execution engine paired with a sophisticated Groq LLM reasoning pipeline to let you intuitively ask questions about your data.
 
